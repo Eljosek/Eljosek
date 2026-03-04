@@ -1,45 +1,36 @@
 <div align="center">
 
-<!-- PIXEL ART AVATAR -->
-```
-                    ██████████████
-                ████░░░░░░░░░░░░████
-            ████████████████████████████
-            ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██        ← 🧢 Cap
-            ██████████████████████████████
-            ██░░░░░░░░░░░░░░░░░░░░░░░░██
-            ██░░██████░░░░░░██████░░░░██        ← 👓 Glasses
-            ██░░██▓▓██░░░░░░██▓▓██░░░░██
-            ██░░██████░░░░░░██████░░░░██
-            ██░░░░░░░░░░██░░░░░░░░░░░░██
-            ██░░░░░░░░░░░░░░░░░░░░░░░░██
-            ██░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░██        ← 🧔 Stubble
-            ██░░░░░░████████████░░░░░░██
-              ████░░░░░░░░░░░░░░░░░████
-                  ████████████████
-              ████░░░░░░░░░░░░░░░░████
-            ██░░░░░░░░░░░░░░░░░░░░░░░░██        ← 👕 Casual
-            ██░░░░░░░░░░░░░░░░░░░░░░░░██
-```
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=180&section=header&text=Jos%C3%A9%20Herrera&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Cloud%20Computing&descAlignY=58&descSize=18" width="100%"/>
+
+<!-- PIXEL ART FACE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=13&duration=99999&pause=99999&color=C8A882&center=true&vCenter=false&multiline=true&repeat=false&width=430&height=260&lines=+;++++++++%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84;++++%E2%96%88%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%88%E2%96%88%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%88%E2%96%93%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88%E2%96%93%E2%96%88%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%94%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%91%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%88;++++++%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88;++++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="pixel-face"/>
+
+<br/>
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+Jos%C3%A9+Herrera;Data+Engineer+%7C+Full+Stack+Dev+%7C+Google+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Data+Engineer+%7C+Cloud+Computing;Full+Stack+Dev+%7C+Always+learning+%E2%98%81%EF%B8%8F;Building+pipelines+%26+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- SOCIAL BADGES -->
 [![GitHub followers](https://img.shields.io/github/followers/Eljosek?logo=GitHub&style=for-the-badge&color=0D1117&labelColor=161B22)](https://github.com/Eljosek)
 [![Instagram](https://img.shields.io/badge/@eljosek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eljosek)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-miguel-herrera-guti%C3%A9rrez-841319340/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemiguelherreragutierrez7@gmail.com)
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
+
+<details>
+<summary>👨‍💻 <b>Ver mi carta de presentación en código</b></summary>
+
+<br/>
 
 ```python
 class JoseHerrera:
@@ -51,19 +42,22 @@ class JoseHerrera:
         self.focus       = [
             "Data Engineering & Cloud Pipelines",
             "Data Analytics & Business Intelligence",
-            "Google Cloud Platform (GCP)",
+            "Cloud Computing (AWS · Azure · GCP)",
             "Full-Stack Web Development",
         ]
-        self.cloud       = "Google Cloud Platform ☁️"
         self.tools       = ["BigQuery", "Databricks", "Docker", "Apache Spark", "dbt"]
-        self.currently   = "Building data pipelines & cloud-native apps on GCP"
+        self.currently   = "Building data pipelines & cloud-native apps"
         self.fun_fact    = "I automate ETL workflows before breakfast ☕"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something data-driven 🚀")
 ```
 
-> ☁️ **Systems Engineering student** focused on **Data Engineering**, **Analytics**, and **Google Cloud Platform**. I design robust data pipelines, transform raw data into actionable insights, and ship production-grade web apps — all powered by cloud-native tools.
+</details>
+
+<br/>
+
+> ☁️ **Systems Engineering student** focused on **Data Engineering**, **Analytics**, and **Cloud Computing**. I design robust data pipelines, transform raw data into actionable insights, and ship production-grade web apps — powered by cloud-native tools across AWS, Azure and GCP.
 
 ---
 
@@ -72,15 +66,14 @@ class JoseHerrera:
 <div align="center">
 
 ### ☁️ Cloud & Data Engineering
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-AECBFA?style=for-the-badge&logo=googlecloud&logoColor=333)
-![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 ### 📊 Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -115,24 +108,24 @@ class JoseHerrera:
 
 ---
 
-## ☁️ Google Cloud Focus
+## ☁️ Cloud Data Engineering Stack
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                  ☁️  GCP DATA ENGINEERING STACK                     │
-│                   Building Cloud-Native Pipelines                    │
-├─────────────────┬──────────────────┬─────────────────────────────────┤
-│  INGESTION      │  PROCESSING      │  STORAGE & ANALYTICS           │
-│  ─────────────  │  ──────────────  │  ────────────────────────────  │
-│  • Pub/Sub      │  • Dataflow      │  • BigQuery (DWH)              │
-│  • Cloud Run    │  • Apache Spark  │  • Cloud Storage (Data Lake)   │
-│  • Cloud Tasks  │  • Databricks    │  • Bigtable (real-time)        │
-│  • APIs / REST  │  • dbt (models)  │  • Looker / Data Studio        │
-├─────────────────┴──────────────────┴─────────────────────────────────┤
-│  🐳 Docker  ·  Python  ·  SQL  ·  Pandas  ·  Apache Spark           │
-└──────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│               ☁️  CLOUD DATA ENGINEERING STACK                          │
+│           AWS  ·  Azure  ·  GCP  —  Cloud-Native Pipelines              │
+├─────────────────────┬──────────────────────┬────────────────────────────┤
+│  INGESTION          │  PROCESSING          │  STORAGE & ANALYTICS       │
+│  ─────────────────  │  ──────────────────  │  ────────────────────────  │
+│  • Event Streaming  │  • Apache Spark      │  • Data Warehouse (DWH)    │
+│  • REST APIs        │  • Databricks        │  • Data Lake (Object Store) │
+│  • Cloud Functions  │  • dbt (models)      │  • BI / Looker / PowerBI   │
+│  • Message Queues   │  • Dataflow          │  • BigQuery / Synapse      │
+├─────────────────────┴──────────────────────┴────────────────────────────┤
+│  🐳 Docker  ·  Python  ·  SQL  ·  Pandas  ·  Apache Spark              │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -151,42 +144,50 @@ class JoseHerrera:
 <tr>
 <td width="50%">
 
-### 🧮 [Linear Programming Toolkit](https://github.com/Eljosek/linear-programming-toolkit)
-> **Complete Operations Research solver suite** built with Flask + NumPy
-
-A production-ready web app implementing **6 optimization algorithms** from scratch:
+### 🧮 Linear Programming Toolkit
+> **Complete Operations Research solver suite** — Flask + NumPy
 
 - ✅ **Graphical Method** — LP visualization with Matplotlib
-- ✅ **Simplex Tableau** — Full primal simplex with step-by-step
-- ✅ **Dual Simplex** — Optimized for MAX/MIN problems
-- ✅ **Two-Phase Simplex** — Handles artificial variables
-- ✅ **Transportation Model** — Northwest Corner, Min Cost, Vogel (VAM)
-- ✅ **Dijkstra & Kruskal** — Shortest path & MST algorithms
+- ✅ **Simplex Tableau** — Primal simplex step-by-step
+- ✅ **Dual & Two-Phase Simplex** — MAX/MIN problems
+- ✅ **Transportation Model** — NW Corner, Min Cost, Vogel
+- ✅ **Dijkstra & Kruskal** — Shortest path & MST
+
+<div align="center">
+
+[![Demo](https://img.shields.io/badge/▶_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://linear-programming-toolkit.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eljosek/linear-programming-toolkit)
+
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🛡️ [Seguros Prototipo — JH Digital Solutions](https://github.com/Eljosek/segurosprototipo)
+### 🛡️ Seguros Prototipo — JH Digital Solutions
 > **Insurance Lead Management SaaS** — Full-stack production app
 
-- 📊 Real-time **admin dashboard** with live Supabase subscriptions
-- 📝 Lead capture with **Zod validation**
-- 🔐 Full **Auth system** (login / signup / password recovery)
+- 📊 Real-time **admin dashboard** (Supabase subscriptions)
+- 🔐 Full **Auth system** (login / signup / recovery)
 - 📈 Analytics with **Recharts** (pie charts, time series)
-- 💬 WhatsApp integration & email service ready
+- 💬 WhatsApp integration & email service
 - 🚀 **Deployed on Vercel**
+
+<div align="center">
+
+[![Demo](https://img.shields.io/badge/▶_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://segurosprototipo.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eljosek/segurosprototipo)
+
+</div>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 </td>
 </tr>
@@ -202,14 +203,21 @@ A production-ready web app implementing **6 optimization algorithms** from scrat
 <tr>
 <td width="50%">
 
-### 🛒 [ElectroEventos Store](https://github.com/Eljosek/electroeventos-store)
-> **Modern e-commerce platform** with Next.js 15 & React 19
+### 🛒 ElectroEventos Store
+> **Modern e-commerce platform** — Next.js 15 & React 19
 
-- 🛍️ Full shopping cart with **Zustand** state management
+- 🛍️ Full shopping cart with **Zustand**
 - 🎨 Animated UI with **Framer Motion**
-- 📱 Fully responsive with **Tailwind CSS v4**
+- 📱 Fully responsive **Tailwind CSS v4**
 - ⚡ **Next.js 15** App Router & optimized images
-- 🔄 Persistent cart with localStorage middleware
+- 🔄 Persistent cart with localStorage
+
+<div align="center">
+
+[![Demo](https://img.shields.io/badge/▶_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://electroeventos-store.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eljosek/electroeventos-store)
+
+</div>
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -219,19 +227,25 @@ A production-ready web app implementing **6 optimization algorithms** from scrat
 </td>
 <td width="50%">
 
-### 🌿 [Prototipo FUNCO](https://github.com/Eljosek/prototipofunco)
-> **NGO/Foundation website** — Environmental-themed platform
+### 🌿 Prototipo FUNCO
+> **NGO/Foundation website** — Environmental-themed
 
 - 🍃 Animated **falling leaves** & vine decorations
 - 📊 Impact metrics & testimonials carousel
 - 💬 **WhatsApp** floating button integration
-- 🎭 Rich component library with Radix UI primitives
-- ✨ Smooth animations via **Framer Motion**
+- 🎭 Rich Radix UI components
+- ✨ **Framer Motion** animations
+
+<div align="center">
+
+[![Demo](https://img.shields.io/badge/▶_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prototipofunco.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eljosek/prototipofunco)
+
+</div>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 </td>
@@ -244,12 +258,12 @@ A production-ready web app implementing **6 optimization algorithms** from scrat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eljosek&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4285F4&icon_color=FF3621&text_color=C9D1D9&ring_color=4285F4" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eljosek&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=C9D1D9&langs_count=10" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Eljosek&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF7B72&text_color=C9D1D9&ring_color=58A6FF" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eljosek&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" width="49%" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eljosek&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=4285F4&ring=4285F4&fire=FF3621&currStreakLabel=4285F4&sideLabels=C9D1D9&dates=555555" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eljosek&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" width="70%" alt="GitHub Streak"/>
 
 <br/>
 
@@ -268,12 +282,12 @@ A production-ready web app implementing **6 optimization algorithms** from scrat
 
 ```mermaid
 graph LR
-    A[Data Sources] -->|Ingest| B[Cloud Pub/Sub]
-    B --> C[Cloud Run / Dataflow]
+    A[Data Sources] -->|Ingest| B[Event Streaming]
+    B --> C[Cloud Functions / Containers]
     C -->|Transform| D[Apache Spark / dbt]
-    D -->|Load| E[(BigQuery)]
-    E --> F[Looker / Data Studio]
-    G[Cloud Storage] -->|Data Lake| D
+    D -->|Load| E[(Data Warehouse)]
+    E --> F[BI / Analytics]
+    G[Data Lake] -->|Batch| D
     H[Docker] --> C
 
     I[React / Next.js] -->|TypeScript| J[Component Layer]
@@ -288,19 +302,21 @@ graph LR
 
 <div align="center">
 
-[![Available for Roles](https://img.shields.io/badge/🟢_Open_to_Work-Data_Engineer_%7C_Data_Analyst_%7C_Full_Stack-4285F4?style=for-the-badge&labelColor=0D1117)](mailto:YOUR-EMAIL@example.com)
-
-| 📧 Email | 💼 LinkedIn | 📸 Instagram | 🌐 Portfolio |
-|:---:|:---:|:---:|:---:|
-| [your.email@example.com](mailto:your.email@example.com) | [/in/your-linkedin](https://linkedin.com/in/YOUR-LINKEDIN) | [@eljosek](https://instagram.com/eljosek) | [portfolio.vercel.app](https://YOUR-PORTFOLIO.vercel.app) |
+[![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Data_Engineer_%7C_Data_Analyst_%7C_Full_Stack-58A6FF?style=for-the-badge&labelColor=0D1117)](mailto:josemiguelherreragutierrez7@gmail.com)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Eljosek&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS)
+| 📧 Email | 💼 LinkedIn | 📸 Instagram |
+|:---:|:---:|:---:|
+| [josemiguelherreragutierrez7@gmail.com](mailto:josemiguelherreragutierrez7@gmail.com) | [José Miguel Herrera](https://www.linkedin.com/in/jose-miguel-herrera-guti%C3%A9rrez-841319340/) | [@eljosek](https://instagram.com/eljosek) |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=Eljosek&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
