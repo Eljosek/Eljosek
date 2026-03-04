@@ -3,14 +3,14 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=180&section=header&text=Jos%C3%A9%20Herrera&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Cloud%20Computing&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- PIXEL ART FACE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=13&duration=99999&pause=99999&color=C8A882&center=true&vCenter=false&multiline=true&repeat=false&width=430&height=260&lines=+;++++++++%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84%E2%96%84;++++%E2%96%88%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%88%E2%96%88%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%88%E2%96%93%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88%E2%96%93%E2%96%88%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%94%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%91%E2%96%88;++++%E2%96%88%E2%96%91%E2%96%91%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%88;++++++%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%88;++++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="pixel-face"/>
+<!-- PIXEL ART -->
+<img src="https://raw.githubusercontent.com/Eljosek/Eljosek/main/pixel-art.jpg" width="220" style="border-radius:12px" alt="José Herrera pixel art"/>
 
 <br/>
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Data+Engineer+%7C+Cloud+Computing;Full+Stack+Dev+%7C+Always+learning+%E2%98%81%EF%B8%8F;Building+pipelines+%26+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Data+Engineer+%7C+Cloud+Computing;Full+Stack+Dev+%7C+Always+learning+%E2%98%81%EF%B8%8F;Studying+pipelines+%26+cloud+tools+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,37 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-<details>
-<summary>👨‍💻 <b>Ver mi carta de presentación en código</b></summary>
-
-<br/>
-
-```python
-class JoseHerrera:
-    def __init__(self):
-        self.name        = "José Herrera"
-        self.alias       = "Eljosek"
-        self.university  = "Universidad Tecnológica de Pereira"
-        self.degree      = "Ingeniería de Sistemas y Computación"
-        self.focus       = [
-            "Data Engineering & Cloud Pipelines",
-            "Data Analytics & Business Intelligence",
-            "Cloud Computing (AWS · Azure · GCP)",
-            "Full-Stack Web Development",
-        ]
-        self.tools       = ["BigQuery", "Databricks", "Docker", "Apache Spark", "dbt"]
-        self.currently   = "Building data pipelines & cloud-native apps"
-        self.fun_fact    = "I automate ETL workflows before breakfast ☕"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something data-driven 🚀")
-```
-
-</details>
-
-<br/>
-
-> ☁️ **Systems Engineering student** focused on **Data Engineering**, **Analytics**, and **Cloud Computing**. I design robust data pipelines, transform raw data into actionable insights, and ship production-grade web apps — powered by cloud-native tools across AWS, Azure and GCP.
+> ☁️ **Systems Engineering student** at UTP, currently **learning Data Engineering**, **Cloud Computing** and **Analytics**. Building projects to practice data pipelines, cloud-native tools, and web apps across AWS, Azure and GCP.
 
 ---
 
@@ -263,16 +233,12 @@ class JoseHerrera:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eljosek&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Eljosek&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" width="70%" alt="GitHub Streak"/>
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eljosek/Eljosek/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eljosek/Eljosek/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Eljosek/Eljosek/output/github-snake-dark.svg" width="100%" />
-</picture>
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eljosek&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
