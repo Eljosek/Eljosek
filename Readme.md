@@ -20,6 +20,7 @@
 [![Instagram](https://img.shields.io/badge/@eljosek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eljosek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-miguel-herrera-guti%C3%A9rrez-841319340/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemiguelherreragutierrez7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jose-herrera.vercel.app/)
 
 </div>
 
@@ -103,6 +104,34 @@
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://portfolio-jose-herrera.vercel.app/" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,20&height=130&text=%F0%9F%8C%90%20portfolio-jose-herrera.vercel.app&fontSize=28&fontColor=fff&animation=fadeIn&desc=Personal%20Developer%20Portfolio%20%E2%80%94%20Next.js%2015%20%C2%B7%20TypeScript%20%C2%B7%20Tailwind%20%C2%B7%20Framer%20Motion&descSize=15&descAlignY=72" width="100%"/>
+</a>
+
+<br/>
+
+> ✨ **Personal developer portfolio** showcasing projects, skills and experience in Data Engineering, Cloud & Full Stack
+
+<br/>
+
+[![🌐 Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&color=58A6FF)](https://portfolio-jose-herrera.vercel.app/)
+&nbsp;&nbsp;
+[![View Source](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eljosek/portfolio-jose-herrera)
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+---
 
 <div align="center">
 
